@@ -1,0 +1,2 @@
+./subdir/settings.txt:debug is enabled
+./config.txt:debug=true

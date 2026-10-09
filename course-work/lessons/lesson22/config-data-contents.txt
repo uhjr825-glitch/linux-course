@@ -1,0 +1,5 @@
+project/config/
+project/config/app.conf
+project/config/db.conf
+project/data/
+project/data/numbers.txt

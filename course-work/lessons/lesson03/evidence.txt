@@ -1,0 +1,11 @@
+/workspaces/linux-course/course-work/lessons/lesson03
+config
+docs
+evidence.txt
+projects
+/workspaces/linux-course/course-work/lessons/lesson03/projects
+app.txt
+/workspaces/linux-course/course-work/lessons/lesson03/docs
+readme.txt
+/workspaces/linux-course/course-work/lessons/lesson03/config
+settings.conf

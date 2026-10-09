@@ -1,0 +1,138 @@
+     19 kitchen tools
+     17 sports equipment
+     17 electronics
+     16 smartphones
+     15 clothing
+     11 watches
+     10 footwear
+      8 luxury watches
+      8 fashion accessories
+      5 vehicles
+      5 vegetables
+      5 perfumes
+      5 motorcycles
+      5 laptops
+      5 home decor
+      5 furniture
+      5 fruits
+      5 fragrances
+      5 eyewear
+      5 dresses
+      5 beauty
+      5 apple
+      4 utensils
+      4 sunglasses
+      4 men's shirts
+      4 kitchen appliances
+      4 cricket
+      4 beverages
+      3 women's watches
+      3 vivo
+      3 tablets
+      3 sportbikes
+      3 samsung galaxy
+      3 realme
+      3 personal care
+      3 oppo
+      3 earrings
+      3 cookware
+      3 casual shoes
+      3 baseball
+      2 women's shoes
+      2 wireless earphones
+      2 tennis
+      2 strainers
+      2 smart speakers
+      2 skirts
+      2 selfie accessories
+      2 sedans
+      2 pet supplies
+      2 organization
+      2 meat
+      2 handbags
+      2 golf
+      2 drinkware
+      2 dairy
+      2 corsets
+      2 camera accessories
+      2 blenders
+      2 basketball
+      2 athletic shoes
+      1 woks
+      1 wireless chargers
+      1 volleyball
+      1 turners
+      1 trays
+      1 tongs
+      1 swing
+      1 suvs
+      1 suits
+      1 storage
+      1 sports cleats
+      1 sports cars
+      1 sofas
+      1 smartwatches
+      1 slippers
+      1 slicers
+      1 serveware
+      1 seafood
+      1 scooters
+      1 power banks
+      1 pots
+      1 plates
+      1 plant accessories
+      1 photo frame
+      1 phone accessories
+      1 peelers
+      1 party glasses
+      1 pans
+      1 over-ear headphones
+      1 office chairs
+      1 nail polish
+      1 minivans
+      1 microwaves
+      1 men's t-shirts
+      1 mascara
+      1 lipstick
+      1 lighting
+      1 leather watches
+      1 leather bags
+      1 juicers
+      1 ice cube trays
+      1 household essentials
+      1 heel shoes
+      1 health supplements
+      1 hatchbacks
+      1 hand soap
+      1 graters
+      1 grains
+      1 gowns
+      1 glasses
+      1 girls' dresses
+      1 football
+      1 face powder
+      1 eyeshadow
+      1 dog food
+      1 dinnerware
+      1 desserts
+      1 designer bags
+      1 cutting boards
+      1 cutlery
+      1 cups
+      1 cooktops
+      1 cooking essentials
+      1 condiments
+      1 compact cars
+      1 coffee
+      1 chargers
+      1 cat food
+      1 body wash
+      1 body lotion
+      1 bedside tables
+      1 beds
+      1 bathroom
+      1 baking
+      1 badminton
+      1 backpacks
+      1 artificial plants
+      1 american football

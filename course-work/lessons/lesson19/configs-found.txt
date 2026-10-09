@@ -1,0 +1,3 @@
+./project/backend/config.json
+./project/frontend/config.json
+./practice/find/config.json

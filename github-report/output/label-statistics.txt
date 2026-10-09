@@ -1,0 +1,9 @@
+     12 enhancement
+      8 gh-issue
+      5 gh-pr
+      3 needs-triage
+      3 core
+      2 priority-3
+      2 bug
+      1 more-info-needed
+      1 gh-codespace

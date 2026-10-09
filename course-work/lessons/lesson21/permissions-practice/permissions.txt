@@ -1,0 +1,5 @@
+lrwxrwxrwx 1 codespace codespace 14 Oct  9 08:13 config -> project/config
+-rw-r--r-- 1 codespace codespace 14 Oct  9 08:25 notes.txt
+-rwxr--r-- 1 codespace codespace 24 Oct  9 08:25 project/backup.sh
+lrwxrwxrwx 1 codespace codespace 14 Oct  9 08:13 project/current-restricted.log -> restricted.log
+-rw------- 1 codespace codespace 11 Oct  9 08:25 project/restricted.log

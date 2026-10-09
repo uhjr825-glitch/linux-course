@@ -1,0 +1,63 @@
+     14 Apple
+      6 Rolex
+      5 Samsung
+      4 Fashion Shades
+      3 Vivo
+      3 Realme
+      3 Oppo
+      3 Dodge
+      2 Urban Chic
+      2 Off White
+      2 Nike
+      2 Chrysler
+      2 Calvin Klein
+      2 Annibale Colombo
+      1 Velvet Touch
+      1 Vaseline
+      1 TechGear
+      1 SpeedMaster
+      1 SnapTech
+      1 ScootMaster
+      1 Puma
+      1 ProVision
+      1 Prada
+      1 Pampi
+      1 Olay
+      1 Nail Couture
+      1 MotoGP
+      1 Longines
+      1 Lenovo
+      1 Knoll
+      1 Kawasaki
+      1 IWC
+      1 Huawei
+      1 Heshe
+      1 Gucci
+      1 Glamour Beauty
+      1 Gigabyte
+      1 Generic Motors
+      1 GadgetMaster
+      1 Furniture Co.
+      1 Fashionista
+      1 Fashion Trends
+      1 Fashion Timepieces
+      1 Fashion Gold
+      1 Fashion Fun
+      1 Fashion Express
+      1 Fashion Diva
+      1 Fashion Co.
+      1 Essence
+      1 Elegance Collection
+      1 Dolce & Gabbana
+      1 Dior
+      1 Dell
+      1 Comfort Trends
+      1 Classic Wear
+      1 Chic Cosmetics
+      1 Chanel
+      1 Casual Comfort
+      1 Beats
+      1 Bath Trends
+      1 Attitude
+      1 Asus
+      1 Amazon

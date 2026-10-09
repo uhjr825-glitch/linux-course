@@ -1,0 +1,15 @@
+sleep PIDs: 16768 16769 16770
+  16768 sleep
+  16769 sleep
+  16770 sleep
+top - 08:25:50 up 49 min,  0 user,  load average: 0.20, 0.42, 0.79
+Tasks:   3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7942.3 total,    541.7 free,   2453.2 used,   5327.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.   5489.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  16768 codespa+  20   0    6116   1972   1852 S   0.0   0.0   0:00.00 sleep
+  16769 codespa+  20   0    6116   1936   1816 S   0.0   0.0   0:00.00 sleep
+  16770 codespa+  20   0    6116   1940   1824 S   0.0   0.0   0:00.00 sleep
+All three recorded practice processes have exited.

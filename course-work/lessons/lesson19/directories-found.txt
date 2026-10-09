@@ -1,0 +1,7 @@
+.
+./practice
+./practice/find
+./project
+./project/backend
+./project/backend/logs
+./project/frontend

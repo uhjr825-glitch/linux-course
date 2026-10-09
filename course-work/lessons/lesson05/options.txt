@@ -1,0 +1,9 @@
+  -a, --all                  do not ignore entries starting with .
+      --author               with -l, print the author of each file
+      --block-size=SIZE      with -l, scale sizes by SIZE when printing them;
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                             single-column -1, verbose -l, vertical -C
+  -g                         like -l, but do not list owner
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -o                         like -l, but do not list group information
+                             with -l, WORD determines which time to show;

@@ -1,0 +1,52 @@
+documents:
+
+logs:
+
+scripts:
+total 24
+drwxrwxrwx+  5 codespace codespace 4096 Oct  9 08:10 .
+drwxrwxrwx+ 33 codespace codespace 4096 Oct  9 08:22 ..
+-rw-rw-rw-   1 codespace codespace    0 Oct  9 08:25 .env
+-rw-rw-rw-   1 codespace codespace    0 Oct  9 08:25 .hidden
+-rw-rw-rw-   1 codespace codespace    0 Oct  9 08:25 README.md
+-rw-rw-rw-   1 codespace codespace    0 Oct  9 08:25 config.conf
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 documents
+-rw-rw-rw-   1 codespace codespace   28 Oct  9 08:25 evidence.txt
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 logs
+-rw-rw-rw-   1 codespace codespace    0 Oct  9 08:25 notes.txt
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 scripts
+/workspaces/linux-course/course-work/lessons
+total 132
+drwxrwxrwx+ 33 codespace codespace 4096 Oct  9 08:22 .
+drwxrwxrwx+  3 codespace codespace 4096 Oct  9 08:14 ..
+drwxrwxrwx+  5 codespace codespace 4096 Oct  9 08:10 lesson03
+drwxrwxrwx+  5 codespace codespace 4096 Oct  9 08:10 lesson04
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson05
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson06
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson07
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson08
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson09
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson10
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson11
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:10 lesson12
+drwxrwxrwx+  8 codespace codespace 4096 Oct  9 08:11 lesson13
+drwxrwxrwx+  5 codespace codespace 4096 Oct  9 08:12 lesson14
+drwx------+  4 codespace codespace 4096 Oct  9 08:13 lesson14-run.AanxJo
+drwx------+  4 codespace codespace 4096 Oct  9 08:15 lesson14-run.GbRqhJ
+drwx------+  4 codespace codespace 4096 Oct  9 08:15 lesson14-run.h9IPQO
+drwx------+  4 codespace codespace 4096 Oct  9 08:22 lesson14-run.nLLFS0
+drwxrwxrwx+  3 codespace codespace 4096 Oct  9 08:22 lesson15
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:11 lesson16
+drwxrwxrwx+  3 codespace codespace 4096 Oct  9 08:11 lesson17
+drwxrwxrwx+  3 codespace codespace 4096 Oct  9 08:11 lesson18
+drwxrwxrwx+  4 codespace codespace 4096 Oct  9 08:11 lesson19
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:11 lesson20
+drwxrwxrwx+  3 codespace codespace 4096 Oct  9 08:13 lesson21
+drwxrwxrwx+  4 codespace codespace 4096 Oct  9 08:22 lesson22
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:13 lesson23
+drwxrwxrwx+  3 codespace codespace 4096 Oct  9 08:13 lesson24
+drwxrwxrwx+  3 codespace codespace 4096 Oct  9 08:13 lesson25
+drwxrwxrwx+  2 codespace codespace 4096 Oct  9 08:13 lesson26
+drwxrwxrwx+  5 codespace codespace 4096 Oct  9 08:13 lesson27
+drwxrwxrwx+  4 codespace codespace 4096 Oct  9 08:13 lesson28
+drwxrwxrwx+  4 codespace codespace 4096 Oct  9 08:13 lesson29

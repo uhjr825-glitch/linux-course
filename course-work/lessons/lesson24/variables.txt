@@ -1,0 +1,6 @@
+PROJECT_NAME=linux-course-practice
+APP_MODE=testing
+CONFIG_DIR=/workspaces/linux-course/course-work/lessons/lesson24/project/config
+APP_MODE=testing
+CONFIG_DIR=/workspaces/linux-course/course-work/lessons/lesson24/project/config
+PROJECT_NAME=linux-course-practice

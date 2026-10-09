@@ -1,0 +1,7 @@
+Project check started
+total 20
+drwxrwxrwx+ 2 codespace codespace 4096 Oct  9 08:13 .
+drwxrwxrwx+ 3 codespace codespace 4096 Oct  9 08:13 ..
+-rw-rw-rw-  1 codespace codespace   20 Oct  9 08:25 application.log
+-rw-rw-rw-  1 codespace codespace   17 Oct  9 08:25 backup.log
+-rw-rw-rw-  1 codespace codespace   21 Oct  9 08:25 deployment.log

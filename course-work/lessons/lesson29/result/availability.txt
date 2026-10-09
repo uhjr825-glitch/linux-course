@@ -1,0 +1,3 @@
+    176 In Stock
+     14 Low Stock
+      4 Out of Stock

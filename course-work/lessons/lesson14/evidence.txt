@@ -1,0 +1,11 @@
+./docs/readme.txt
+./evidence.txt
+./readme.txt
+./report-final.txt
+./report-old.txt
+./storage/archive/backup/notes.txt
+./storage/archive/backup/report.txt
+./storage/archive/docs/readme.txt
+./storage/backup/notes.txt
+./storage/backup/report.txt
+./storage/docs/readme.txt

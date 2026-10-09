@@ -1,0 +1,4 @@
+Linux terminal course
+GitHub Codespaces training
+Bash command line
+Second line

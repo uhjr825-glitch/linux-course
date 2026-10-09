@@ -1,0 +1,4 @@
+Argument count: 3
+Value: one
+Value: two
+Value: three

@@ -1,0 +1,5 @@
+First text file
+Second text file
+app.log 1
+database.log 1
+status.log 1

@@ -1,0 +1,2 @@
+result/user_names.txt
+result/cities.txt

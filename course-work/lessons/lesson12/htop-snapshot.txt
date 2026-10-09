@@ -1,0 +1,1 @@
+htop: unrecognized option '--batch'

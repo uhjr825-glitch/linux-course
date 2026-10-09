@@ -1,0 +1,7 @@
+Archive:  config-data.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+       12  2026-10-09 08:25   project/data/numbers.txt
+       10  2026-10-09 08:25   project/config/app.conf
+---------                     -------
+       22                     2 files

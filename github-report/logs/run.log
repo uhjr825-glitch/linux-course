@@ -1,0 +1,24 @@
+[2026-10-09T08:05:22Z] Starting report for uhjr825-glitch/linux-course
+[2026-10-09T08:05:22Z] Downloading repository metadata
+[2026-10-09T08:05:22Z] Downloading the first 30 open issues (GitHub also includes pull requests in this endpoint)
+[2026-10-09T08:05:22Z] Saved 0 API records and analyzed 0 issues
+[2026-10-09T08:05:22Z] Report: output/report.txt
+[2026-10-09T08:05:22Z] Archive: archive/report.tar.gz
+[2026-10-09T08:05:22Z] Run completed successfully
+[2026-10-09T08:05:50Z] Starting report for cli/cli
+[2026-10-09T08:05:50Z] Downloading repository metadata
+[2026-10-09T08:05:50Z] Downloading the first 30 open issues (GitHub also includes pull requests in this endpoint)
+[2026-10-09T08:05:51Z] Saved 30 API records and analyzed 17 issues
+[2026-10-09T08:05:51Z] Report: output/report.txt
+[2026-10-09T08:05:51Z] Archive: archive/report.tar.gz
+[2026-10-09T08:05:51Z] Run completed successfully
+[2026-10-09T08:14:06Z] Starting report for cli/cli
+[2026-10-09T08:14:06Z] Downloading repository metadata
+[2026-10-09T08:14:06Z] ERROR: could not download repository metadata
+[2026-10-09T08:14:06Z] Starting report for cli/cli
+[2026-10-09T08:14:06Z] Downloading repository metadata
+[2026-10-09T08:14:07Z] Downloading the first 30 open issues (GitHub also includes pull requests in this endpoint)
+[2026-10-09T08:14:08Z] Saved 30 API records and analyzed 17 issues
+[2026-10-09T08:14:08Z] Report: output/report.txt
+[2026-10-09T08:14:08Z] Archive: archive/report.tar.gz
+[2026-10-09T08:14:08Z] Run completed successfully

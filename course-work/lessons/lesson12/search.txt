@@ -1,0 +1,2 @@
+htop - interactive processes viewer
+bashtop - Resource monitor that shows usage and stats

@@ -1,0 +1,44 @@
+GitHub open-issues report
+=========================
+
+Repository: cli (cli/cli)
+Repository open issues (API metadata): 1113
+Stars: 46585
+Generated: 2026-10-09 08:14:08 UTC
+
+API records fetched: 30
+Issue records (pull requests excluded): 17
+Issue titles listed: 17
+Titles containing "bug" (case-insensitive): 0
+
+Issue titles
+-------------
+`gh` fails with obscure errors when access token misses some permissionts
+`gh` skill description does not tell agents when to use it, so it is skipped for tasks it covers
+Add `gh pr share` command
+Package the official `gh` skill as a Claude Code plugin and emit install hints
+gh release list -R https://github.com/cli/cli/ -> error
+Feature: `gh pr merge` remove from merge queue
+`gh issue artifact` stack map
+`gh cs create` doesn't offer location during interactive flow
+gh pr close <URL> --delete-branch can force-delete a same-named branch in an unrelated repository
+`gh pr merge <url> --delete-branch` removes a worktree and deletes a same-named branch in the cwd's unrelated repository
+RFC: `gh issue artifact`
+[Design] `gh issue artifact download`
+[Design] `gh issue artifact delete`
+[Design] `gh issue artifact edit`
+[Design] `gh issue artifact create`
+[Design] `gh issue artifact view`
+[Design] `gh issue artifact list`
+
+Label frequency
+----------------
+     12 enhancement
+      8 gh-issue
+      5 gh-pr
+      3 needs-triage
+      3 core
+      2 priority-3
+      2 bug
+      1 more-info-needed
+      1 gh-codespace

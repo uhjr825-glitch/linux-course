@@ -1,0 +1,2 @@
+2026-09-03 10:26 ERROR Failed to connect to server
+2026-09-03 10:27 ERROR Deployment aborted

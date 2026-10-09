@@ -1,0 +1,6 @@
+.
+./evidence.txt
+./project
+./project/README.txt
+./project/docs
+./project/docs/guide.txt

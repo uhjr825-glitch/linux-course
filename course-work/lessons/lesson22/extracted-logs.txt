@@ -1,0 +1,3 @@
+logs-copy/project/logs/app-old.log
+logs-copy/project/logs/app.log
+logs-copy/project/logs/app.log.gz
